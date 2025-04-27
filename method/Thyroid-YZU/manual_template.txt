@@ -1,0 +1,5 @@
+这是一个关于肿瘤的描述，其中传达了 {"mask"} 的诊断信息：{"placeholder": "text_a"}。
+一种 {"mask"} 超声：{"placeholder": "text_a"}。
+这个{"placeholder": "text_a"} 的主题是关于 {"mask"} 的。
+{"placeholder": "text_a"} 是关于 {"mask"} 的。
+有关{"placeholder": "text_a"} 的主题是 {"mask"}。
